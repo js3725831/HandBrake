@@ -1,4 +1,6 @@
 # HandBrake 
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjs3725831%2FHandBrake.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjs3725831%2FHandBrake?ref=badge_shield)
+
 
 HandBrake is an open-source video transcoder available for Linux, Mac, and Windows, licensed under the [GNU General Public License (GPL) Version 2](LICENSE).
 
@@ -40,3 +42,7 @@ Please get in touch if you'd like to contribute to a translation.
 [License](LICENSE)  
 [News](NEWS.markdown)  
 [Thanks](THANKS.markdown)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjs3725831%2FHandBrake.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjs3725831%2FHandBrake?ref=badge_large)
